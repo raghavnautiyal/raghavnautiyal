@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning how to build mobile apps, web development, and AI
 
 
-[![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=raghavnautiyal)]
