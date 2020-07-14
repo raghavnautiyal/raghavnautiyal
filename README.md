@@ -12,7 +12,7 @@ Contribute to [Dip](https://github.com/raghavnautiyal/Dip)
 
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+  <i>Let's connect!</i>
 
   <p align="center">
     <a href="https://www.instagram.com/raghavnaut" alt="Instagram"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/insta.png"></a>
