@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [the Dip programming language](http://dip-lang.org)
 
-- 👯 I’m looking to collaborate on **The Dip language, and am looking for contributors!**
+- 👯 I’m looking to collaborate on **The Dip programming language**, and am looking for contributors!**
 
 - 👨‍💻 All of my projects are available at [github.com/raghavnautiyal](github.com/raghavnautiyal)
 
