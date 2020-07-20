@@ -1,5 +1,5 @@
 <h1 align="center">👋, I'm Raghav</h1>
-<h3 align="center">A developer and high school student from India</h3>
+<h3 align="center">A high school student and developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavnautiyal" alt="raghavnautiyal" /> </p>
 
 - 🔭 I’m currently working on [the Dip programming language](http://dip-lang.org)
