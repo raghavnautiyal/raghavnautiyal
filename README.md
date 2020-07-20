@@ -1,24 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Raghav</h1>
+<h3 align="center">A developer and high school student from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=github.com/raghavnautiyal/" alt="github.com/raghavnautiyal/" /> </p>
 
-### I'm Raghav!
+- 🔭 I’m currently working on [the Dip programming language](http://dip-lang.org)
 
-- 🔭 I’m currently working on the [Dip programming language](http://dip-lang.org)
-- 🌱 I’m currently learning how to build mobile apps, web development, and AI
+- 👯 I’m looking to collaborate on **The Dip language, and am looking for contributors!**
 
-Contribute to [Dip](https://github.com/raghavnautiyal/Dip)
+- 👨‍💻 All of my projects are available at [github.com/raghavnautiyal](github.com/raghavnautiyal)
 
+- 💬 Ask me about **Python**
 
-![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=raghavnautiyal)
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=github.com/raghavnautiyal/&show_icons=true" alt="github.com/raghavnautiyal/" /> </p>
 
-<hr>
 <p align="center">
-  <i>Let's connect!</i>
-
-  <p align="center">
-    <a href="https://www.instagram.com/raghavnaut" alt="Instagram"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/insta.png"></a>
-    <a href="https://github.com/raghavnautiyal" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
-    <a href="https://medium.com/@raghavnautiyal" alt="Medium"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/medium.png"></a>
-
-  </p>
-
+<a href="https://stackoverflow.com/aghav-nautiyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="aghav-nautiyal" height="20" width="20" /></a>
+<a href="https://kaggle.com/r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="r" height="20" width="20" /></a>
 </p>
